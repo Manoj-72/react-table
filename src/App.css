@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+
+.table-icons {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+.table-price {
+  padding-left: 35%;
+  text-align: left;
+}
